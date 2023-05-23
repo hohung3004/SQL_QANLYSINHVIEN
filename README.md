@@ -2,7 +2,7 @@
 
 ##  CƠ SỞ DỮ LIỆU QUAN HỆ
 
-![](https://drive.google.com/uc?id=1DI8QVXtNVoaZ3qKcAQSZXUpGx9EAzJAk)
+![CƠ SỞ DỮ LIỆU QUAN HỆ](https://drive.google.com/uc?id=1DI8QVXtNVoaZ3qKcAQSZXUpGx9EAzJAk)
 
 ## CÂU TRUY VẤN
 ```SQL
